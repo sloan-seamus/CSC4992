@@ -1,0 +1,52 @@
+Seamuss-MacBook-Pro:Assignment_1 seamus$ python3 Question1.py
+
+
+Question One
+
+
+Enter your first number: 100
+Enter your second number: 68
+
+Maximum:  100
+Minimum:  68
+Average: 84.0
+
+
+Seamuss-MacBook-Pro:Assignment_1 seamus$ python3 Question2.py
+
+
+Question Two
+
+
+Enter a binary number: 10100010
+
+You entered:  10100010
+In decimal:  162
+
+
+
+Seamuss-MacBook-Pro:Assignment_1 seamus$ python3 Question3.py
+
+
+Question Three
+
+
+[5, 15, 25, 35, 45, 55, 65, 75, 85, 95]
+
+
+
+Seamuss-MacBook-Pro:Assignment_1 seamus$ python3 Question4.py
+
+
+Question Three
+
+
+Enter a value for a: 3
+Enter a value for b: 10
+Enter a value for c: 2
+x+ :  -0.21370035215310867
+x- :  -3.1196329811802244
+
+
+
+Seamuss-MacBook-Pro:Assignment_1 seamus$
