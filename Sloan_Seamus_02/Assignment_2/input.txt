@@ -1,0 +1,23 @@
+John Smith: 78, 80, 89, 73, 90
+Sara Jones: 66, 81, 83, 75, 78
+Hussain Ahmad: 85, 77, 69, 88, 100
+Nehal Patel: 90, 45, 55, 67, 75
+Shaofeng Zhu: 83, 60, 74, 92, 0
+
+
+
+Corey Taylor: 56, 75, 89, 88, 76
+Nikolaos Myghal: 64, 66, 67, 69, 80
+Anastazija Zhivko: 100, 80, 60, 50, 100
+Brankica Faruq: 90, 80, 78, 66, 23
+Flore Heiðrún: 76, 77, 89, 0, 92
+Lital Raganhildis: 88, 86, 84, 89, 87
+Rada İlkay: 96, 93, 95, 96, 96
+Eileifr Xochitl: 109, 94, 98, 97, 100
+Amir Efthimia: 89, 91, 79, 92, 76
+Nevenka Pamila: 46, 60, 73, 81, 90
+Friedhelm Luther: 67, 78, 79, 80, 65
+Manel Fabian: 45, 54, 65, 56, 80
+Njord Æthelweard: 81, 92, 54, 38, 98
+Swati Branislava: 11, 12, 93, 99, 103
+Irene Chimwala: 76, 81, 85, 86, 83

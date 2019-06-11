@@ -1,0 +1,21 @@
+To run this application, save the python file in an accessible location
+
+Option 1: Open the application in PyCharm and run the application using the IDE
+Option 2: Navigate to the saved location of the file with the terminal
+            Ensure that the file can directly access an 'input.txt' file
+            Enter 'python3 class_averages.py'
+
+HOW TO FORMAT THE INPUT FILE:
+    FIRST_NAME LAST_NAME: [test result 1], [test result 2], [test result 3], ... [test result n-1], ...
+
+    If there are any blank spaces between student entries like the following:
+    "   Seamus Sloan: 100, 35, 89, 37, 67
+
+        Mike Jones: 98, 99, 87, 88, 90     "
+    The program will simply skip the blank lines
+
+    In the event that no test results are entered after the colon, the program will fail to execute
+
+
+After running the file, a new file "output.txt" will be created in the same directory
+This output file will have the same contents that were displayed in the console after executing the program

@@ -1,0 +1,112 @@
+Name: John Smith
+Scores: ['78', '80', '89', '73', '90']
+Student Average: 82.0
+Student's Grade: B
+
+Name: Sara Jones
+Scores: ['66', '81', '83', '75', '78']
+Student Average: 76.6
+Student's Grade: C
+
+Name: Hussain Ahmad
+Scores: ['85', '77', '69', '88', '100']
+Student Average: 83.8
+Student's Grade: B
+
+Name: Nehal Patel
+Scores: ['90', '45', '55', '67', '75']
+Student Average: 66.4
+Student's Grade: D
+
+Name: Shaofeng Zhu
+Scores: ['83', '60', '74', '92', '0']
+Student Average: 61.8
+Student's Grade: D
+
+Name: Corey Taylor
+Scores: ['56', '75', '89', '88', '76']
+Student Average: 76.8
+Student's Grade: C
+
+Name: Nikolaos Myghal
+Scores: ['64', '66', '67', '69', '80']
+Student Average: 69.2
+Student's Grade: D
+
+Name: Anastazija Zhivko
+Scores: ['100', '80', '60', '50', '100']
+Student Average: 78.0
+Student's Grade: C
+
+Name: Brankica Faruq
+Scores: ['90', '80', '78', '66', '23']
+Student Average: 67.4
+Student's Grade: D
+
+Name: Flore Heiðrún
+Scores: ['76', '77', '89', '0', '92']
+Student Average: 66.8
+Student's Grade: D
+
+Name: Lital Raganhildis
+Scores: ['88', '86', '84', '89', '87']
+Student Average: 86.8
+Student's Grade: B
+
+Name: Rada İlkay
+Scores: ['96', '93', '95', '96', '96']
+Student Average: 95.2
+Student's Grade: A
+
+Name: Eileifr Xochitl
+Scores: ['109', '94', '98', '97', '100']
+Student Average: 99.6
+Student's Grade: A
+
+Name: Amir Efthimia
+Scores: ['89', '91', '79', '92', '76']
+Student Average: 85.4
+Student's Grade: B
+
+Name: Nevenka Pamila
+Scores: ['46', '60', '73', '81', '90']
+Student Average: 70.0
+Student's Grade: C
+
+Name: Friedhelm Luther
+Scores: ['67', '78', '79', '80', '65']
+Student Average: 73.8
+Student's Grade: C
+
+Name: Manel Fabian
+Scores: ['45', '54', '65', '56', '80']
+Student Average: 60.0
+Student's Grade: D
+
+Name: Njord Æthelweard
+Scores: ['81', '92', '54', '38', '98']
+Student Average: 72.6
+Student's Grade: C
+
+Name: Swati Branislava
+Scores: ['11', '12', '93', '99', '103']
+Student Average: 63.6
+Student's Grade: D
+
+Name: Irene Chimwala
+Scores: ['76', '81', '85', '86', '83']
+Student Average: 82.2
+Student's Grade: B
+
+
+Total Students: 23
+Class Average: 75.9
+Standard Deviation: 21.18008403184368
+
+Class's Lowest Score: 0
+	Scored by: Shaofeng Zhu
+	Scored on Test 5
+
+Class's Highest Score: 109
+	Scored by: Eileifr Xochitl
+	Scored on Test 1
