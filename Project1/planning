@@ -1,0 +1,51 @@
+gather input
+    variable = input("input text")
+
+output to screen
+    print("screen text")
+
+classes
+    class_name = ["object1", "object2", "objectN"]
+
+functions
+    def functionName(parameterVariable)
+
+calling a function
+    functionName(localVariable)
+
+comments
+    """comment"""
+
+
+
+
+to open images, use:
+    from PIL import Image, ImagePicker
+
+to split the colors in an image
+    r, g, b = img.split()
+
+to open the image:
+    img.open("myImage.jpg")
+
+to merge layers of the image
+    new_img = Image.merge("RGB", (b, r, g))
+
+to display the image
+    img.show()
+
+to convert the image from RGB to something else (grayscale = L)
+    img.convert("L")
+
+to get a specific pixel
+    r, g, b = img.getpixel(ycoordinate, xcoordinate)
+            (((Top left corner is 0,0)))
+
+to apply a filter
+    img.filter(ImageFilter.BLUR)
+
+to save an image
+    img.save("image_name.jpg")
+
+
+

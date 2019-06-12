@@ -1,0 +1,6 @@
+my_classes = ["Algorithms", "Python", "Software Testing", "Ethics", "Visual Arts"]
+for x in my_classes:
+    if x == "Software Testing":
+        print("This shit sucks")
+    else:
+        print(x)
