@@ -24,13 +24,8 @@ def __init__(self):
     self.addLabel(text="Exemption amount", row=2, column=0)
     self.exeField = self.addFloatField(value=0.0, row=2, column=1)
     # The command button
-    self.addButton(text="Compute", row=3, column=0,
-                   columnspan=2, command=self.computeTax)
+    self.addButton(text="Compute", row=3, column=0, columnspan=2, command=self.computeTax)
 
     # Label and field for the tax
-    self.addLabel(text="Total tax",
-                  row=4, column=0)
-    self.taxField = self.addFloatField(value=0.0,
-                                       row=4,
-                                       column=1,
-                                       precision=2)
+    self.addLabel(text="Total tax", row=4, column=0)
+    self.taxField = self.addFloatField(value=0.0, row=4, column=1, precision=2)
