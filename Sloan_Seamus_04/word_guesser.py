@@ -27,7 +27,7 @@ class WordGuesser(EasyFrame):
         if count == 0:
             self.changeWord()
 
-        elif self.guessField.getText() == word:
+        elif self.guessField.getText().upper() == word.upper():
             self.changeWord()
             self.addPoints()
             self.guessField.option_clear()
