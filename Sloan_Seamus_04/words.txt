@@ -1,4 +1,11 @@
+cat
+cat
+cat
+cat
+cat
+cat
 apple
+store
 door
 bicycle
 store
