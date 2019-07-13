@@ -1,6 +1,25 @@
-my_classes = ["Algorithms", "Python", "Software Testing", "Ethics", "Visual Arts"]
-for x in my_classes:
-    if x == "Software Testing":
-        print("This shit sucks")
-    else:
-        print(x)
+
+x = ["this is a sample", "this is number two"]
+for i, l in enumerate(x):
+    print(i, l)
+
+
+
+"""
+
+From class 7-9
+
+import numpy as np
+from sklearn.linear_model import LinearRegression
+import random
+import matplotlib.pyplot as plt
+
+x = random.sample(range(1, 100), 10)
+y = [i+random.randint(1,30) for i in x]
+
+plt.scatter(x, y) //this will create a graph?
+
+new_x = np.array(x)
+new_y = np.array(y)
+
+"""
