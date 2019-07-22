@@ -30,6 +30,6 @@ print("Part 8: \n{}\n\n".format(list8))
 
 
 
-## Equivalence classes, test cases, boundary testing, requirement writing,
-## white/gray/black box testing, invalid/valid test case, corner, base, edge case scenarios
+## Equivalence classes, Seamus1 cases, boundary testing, requirement writing,
+## white/gray/black box testing, invalid/valid Seamus1 case, corner, base, edge case scenarios
 ## good vs bad requirement, function vs non func requirements
